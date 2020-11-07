@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--定义RectView的属性集-->
+    <declare-styleable name="RectView">
+        <attr name="backgroundColor" format="color"/>
+        <attr name="color" format="color"/>
+        <attr name="radius_lefttop" format="float"/>
+        <attr name="radius_righttop" format="float"/>
+        <attr name="radius_leftbuttom" format="float"/>
+        <attr name="radius_rightbuttom" format="float"/>
+        <attr name="text" format="string"/>
+        <attr name="textColor" format="color"/>
+        <attr name="textsize" format="float"/>
+    </declare-styleable>
+</resources>
